@@ -1,0 +1,42 @@
+table { 
+    border-collapse: collapse; 
+}
+
+td {
+    font-family: Georgia, serif;
+}
+
+h4 {
+    font-family: Georgia, serif;
+}
+
+h5 {
+    font-family: Georgia, serif;
+    color: dimgray;
+}
+
+.left {
+    float:left;
+    width:33%;
+}
+
+.right {
+    float:right;
+    width:33%;
+}
+
+div{
+    white-space: nowrap;
+}
+
+li, ul {
+    font-family: Georgia, serif;
+    color: #787878;
+    margin-bottom: 1em;
+}
+
+#green {
+    border-top: 2px dashed green;
+    border-bottom: 2px dashed green;
+    border-collapse:collapse;
+}
